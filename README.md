@@ -19,7 +19,7 @@ Z. Li, P. Duan, S. Hu, M. Li and X. Kang, "Fast Hyperspectral Image Dehazing Wit
       author    = {Li, Zhen and Duan, Puhong and Hu, Shangsong and Li, Muxing and Kang, Xudong},
       journal   = {IEEE Geoscience and Remote Sensing Letters}, 
       volume    = {19},
-      pages     = {71-5},
+      pages     = {1-5},
       year      = {2022},
       publisher = {IEEE}
       doi={10.1109/LGRS.2022.3217766}
